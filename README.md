@@ -32,13 +32,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/tripathi-ANURAAG&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=https://github.com/tripathi-ANURAAG&theme=tokyonight)
-
-
 ## 🌐 Connect With Me
 
 [LinkedIn](www.linkedin.com/in/anuragtri45/)
