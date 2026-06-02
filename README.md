@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+Developer;Python+Developer;Data+Science+Learner;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+Developer;Python+Developer;GRAD+in+CSE+(Data+Science);Open+Source+Enthusiast" />
 </p>
 # 👋 Hello, I'm Anurag Tripathi
 
@@ -38,8 +38,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=https://github.com/tripathi-ANURAAG&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/tripathi-ANURAAG&layout=compact&theme=tokyonight)
----
 
 ## 🌐 Connect With Me
 
