@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Java;Final+Year+student+in+CSE+(Data+Science);Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=JAVA+Developer;CSE+(Data+Science)+Major;Open+Source+Enthusiast;LET'S+CONTRIBUTE+..." />
 </p>
 # 👋 Hello, I'm Anurag Tripathi
 
-🚀 Backend Developer in JAVA | Python and JS enthusiast
+🚀  Software Developer [JAVA] | Python and JS enthusiast
 
 ---
 
@@ -22,13 +22,15 @@
 
 ### Frameworks
 - SpringFramework + AI
-- Django Rest Framework
-- FastAPI
-- NodeJS
+- SpringBoot, Servlets, JPA & Hibernate, Spring Security
+- ReactJS
+- RestAPIs
 
 ### Databases
 - PostgreSQL
+- MySQL
 - MongoDB
+- Redis
 
 ---
 
