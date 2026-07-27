@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=JAVA+Developer;CSE+(Data+Science)+Major;Open+Source+Enthusiast;LET'S+CONTRIBUTE+..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=JAVA+SpringBoot+Developer;CSE+(Data+Science)+Major;Open+Source+Enthusiast;LET'S+CONTRIBUTE+..." />
 </p>
 # 👋 Hello, I'm Anurag Tripathi
 
@@ -10,7 +10,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,mongodb,git,github,cpp,js,react" />
+<img src="https://skillicons.dev/icons?i=c,html,css,,js,react,redux,tailwind,java,maven,nginx,jest,sping,hibernate,ai,postman,python,postgres,mysql,mongodb,sqlite,graphql,redis,git,kafka,aws,elasticsearch,dynamodb,rabbitmq,firebase,jenkins,kubernetes" />
 </p>
 
 ### Languages
