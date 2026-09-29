@@ -10,7 +10,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,java,html,css,,js,react,spring,ai,postgres,mysql,mongodb,sqlite,graphql,git,kafka" />
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,,js,react,spring,ai,postgres,mysql,mongodb,git" />
 </p>
 
 ### Core
