@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;B.Tech+CSE+(Data+Science);Does+Software+Development+out+of+Curiosity;Open+Source+Enthusiast;LET'S+CONTRIBUTE+..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;B.Tech+CSE+(Data+Sciences);Software+Development+for+fun;Open+Source+Enthusiast;LET'S+CONTRIBUTE+..." />
 </p>
 # 👋 Hello, I'm Anurag Tripathi
 
