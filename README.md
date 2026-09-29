@@ -1,17 +1,23 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=JAVA+SpringBoot+Developer;CSE+(Data+Science)+Major;Open+Source+Enthusiast;LET'S+CONTRIBUTE+..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;B.Tech+CSE+(Data+Science);Does+Software+Development+out+of+Curiosity;Open+Source+Enthusiast;LET'S+CONTRIBUTE+..." />
 </p>
 # 👋 Hello, I'm Anurag Tripathi
 
-🚀  Software Developer [JAVA] | Python and JS enthusiast
+🚀  Computer Science Engineer | DATA Science, Python, JAVA and JS enthusiast
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,html,css,,js,react,redux,tailwind,java,maven,nginx,jest,sping,hibernate,ai,postman,python,postgres,mysql,mongodb,sqlite,graphql,redis,git,kafka,aws,elasticsearch,dynamodb,rabbitmq,firebase,jenkins,kubernetes" />
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,,js,react,spring,ai,postgres,mysql,mongodb,sqlite,graphql,git,kafka" />
 </p>
+
+### Core
+- DSA (Java & C)
+- Computer Networks
+- Database Management System
+- Operating System
 
 ### Languages
 - C
@@ -22,7 +28,7 @@
 
 ### Frameworks
 - SpringFramework + AI
-- SpringBoot, Servlets, JPA & Hibernate, Spring Security
+- Flask
 - ReactJS
 - RestAPIs
 
@@ -30,7 +36,14 @@
 - PostgreSQL
 - MySQL
 - MongoDB
-- Redis
+
+### ML/AI
+- Machine Learning
+- Deep Learning
+- NLP
+- Scikit-Learn
+- Tensorflow/Keras
+- TF/IDF
 
 ---
 
